@@ -1,4 +1,4 @@
-# YT ReVanced Module
+# YT ReVanced Module [Amoled Theme]
 **This Magisk Module For YouTube ReVanced**
 
 ## Changelog
