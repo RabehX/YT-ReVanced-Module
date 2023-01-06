@@ -1,4 +1,5 @@
 # YT ReVanced Module [Dynamic Mount]
+[![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/RabahX_Official)
 This Magisk Module For YouTube ReVanced
 
 ## Features :
