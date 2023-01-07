@@ -15,7 +15,5 @@ This Magisk Module For YouTube ReVanced
 - The version of YouTube must be compatible with the version of YouTube ReVanced .
 
 ## Changelog :
-### v18.01.32 :
+### v18.01.35 :
 - Update YouTube ReVanced .
-- Update Script .
-- Many Features have been added .
