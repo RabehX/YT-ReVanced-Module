@@ -1,17 +1,24 @@
 # YT ReVanced Module [Dynamic Mount]
 [![Channel](https://img.shields.io/badge/Follow-Telegram-blue.svg?logo=telegram)](https://t.me/RabahX_Official)
+<img src="https://img.shields.io/github/downloads/RabahX/YT-ReVanced-Module/total">
 
 This Magisk Module For YouTube ReVanced
 
-## Features :
-- Replace Youtube with YouTube ReVanced [Amoled & Material You Theme] APK by binding mount .
-- Banking Apps Won't detect this Module in the rate of 99.1% .
-- The Module pressure to reach 36 MB .
-- Added a script to stop auto updates for YouTube .
-- Disable battery optimization for YouTube ReVanced .
+## ⭐ Requirements
+- **Android Version: Android 8+**
+- **Process Monitor Tool v2.1+**
+- **YouTube must be Installed**
+- **The Version of YouTube must be compatible with the version of YouTube ReVanced**
+## Features
+- Initial Size of module is low
+- Open Source
+- Banking Apps Won't detect this Module in the rate of 99.1%
+- Works on almost all roms
+- Use binding mount for Replace YouTube with YouTube ReVanced
+- Disable Play Store updates for YouTube ReVanced 
 - There are no traces after deletion .
-
-## Note :
-- YouTube ReVanced Works on Android 8 and above .
-- Install required Process Monitor Tool v1.1+ .
-- The version of YouTube must be compatible with the version of YouTube ReVanced .
+## Contribute
+- Reporting bugs with logs
+- Feature Requests
+- Supporting other persons on issues
+- Creating pull request to enable new feature or code improvements
