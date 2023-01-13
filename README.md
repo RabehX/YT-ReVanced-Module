@@ -17,7 +17,8 @@ This Magisk Module For YouTube ReVanced
 - Works on almost all roms
 - Use binding mount for Replace YouTube with YouTube ReVanced
 - Disable Play Store updates for YouTube ReVanced 
-- There are no traces after deletion .
+- There are no traces after deletion
+- VolumeKey-Selector to choose your favorite theme
 ## Contribute
 - Reporting bugs with logs
 - Feature Requests
