@@ -15,5 +15,11 @@ This Magisk Module For YouTube ReVanced
 - The version of YouTube must be compatible with the version of YouTube ReVanced .
 
 ## Changelog :
+### v18.02.33 :
+- Update YouTube ReVanced .
+- Added SQLite 3 for detach .
+- Added VolumeKey-Selector to choose your favorite theme .
+- Update Script .
+- improve the performance .
 ### v18.01.35 :
 - Update YouTube ReVanced .
