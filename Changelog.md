@@ -17,6 +17,10 @@ This Magisk Module For YouTube ReVanced
 - VolumeKey-Selector to choose your favorite theme
 
 ## Changelog :
+### v18.03.32 :
+- Update YouTube ReVanced .
+- improve the performance .
+- Automatically Apply Amoled Theme in x86 & x64 .
 ### v18.02.33 :
 - Update YouTube ReVanced .
 - Added SQLite 3 for detach .
