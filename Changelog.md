@@ -17,6 +17,10 @@ This Magisk Module For YouTube ReVanced
 - VolumeKey-Selector to choose your favorite theme
 
 ## Changelog :
+### v18.03.33 :
+- Update Script & Add Status for Dynamic Mount (thanks to @HuskyDG ❤️‍🔥)
+- Fix SQLite3 issue
+- Update YouTube ReVanced
 ### v18.03.32 :
 - Update YouTube ReVanced .
 - improve the performance .
