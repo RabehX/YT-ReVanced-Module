@@ -17,29 +17,10 @@ This Magisk Module For YouTube ReVanced
 - VolumeKey-Selector to choose your favorite theme
 
 ## Changelog :
+### v18.07.35 :
+- Update YouTube ReVanced .
+- Update Script & Add Mindetach (thanks to @j-hc ❤️‍🔥) .
+- improve the performance .
 ### v18.07.33 :
 - Update YouTube ReVanced .
 - Fix Bugs .
-### v18.05.35 :
-- Update YouTube ReVanced .
-### v18.05.34 :
-- Update YouTube ReVanced .
-- Fix Buges .
-### v18.04.35 :
-- Update YouTube ReVanced .
-### v18.03.33 :
-- Update Script & Add Status for Dynamic Mount (thanks to @HuskyDG ❤️‍🔥) .
-- Fix SQLite3 issue .
-- Update YouTube ReVanced
-### v18.03.32 :
-- Update YouTube ReVanced .
-- improve the performance .
-- Automatically Apply Amoled Theme in x86 & x64 .
-### v18.02.33 :
-- Update YouTube ReVanced .
-- Added SQLite 3 for detach .
-- Added VolumeKey-Selector to choose your favorite theme .
-- Update Script .
-- improve the performance .
-### v18.01.35 :
-- Update YouTube ReVanced .
