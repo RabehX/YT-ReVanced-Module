@@ -17,6 +17,8 @@ This Magisk Module For YouTube ReVanced
 - VolumeKey-Selector to choose your favorite theme
 
 ## Changelog :
+### v18.08.37 :
+- Update YouTube ReVanced .
 ### v18.07.35 :
 - Update YouTube ReVanced .
 - Update Script & Add Mindetach (thanks to @j-hc ❤️‍🔥) .
