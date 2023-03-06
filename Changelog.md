@@ -17,6 +17,10 @@ This Magisk Module For YouTube ReVanced
 - VolumeKey-Selector to choose your favorite theme
 
 ## Changelog :
+### v18.08.39 :
+- Update YouTube ReVanced .
+- Automaticaly Mount [Material You] YouTube in x86 & x64
+- Fix bugs .
 ### v18.08.37 :
 - Update YouTube ReVanced .
 ### v18.07.35 :
