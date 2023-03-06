@@ -19,7 +19,7 @@ This Magisk Module For YouTube ReVanced
 ## Changelog :
 ### v18.08.39 :
 - Update YouTube ReVanced .
-- Automaticaly Mount [Material You] YouTube in x86 & x64
+- Automaticaly Mount [Material You] YouTube in x86 & x64 .
 - Fix bugs .
 ### v18.08.37 :
 - Update YouTube ReVanced .
