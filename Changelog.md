@@ -18,6 +18,6 @@ This Magisk Module For YouTube ReVanced
 
 ## Changelog :
 ### v18.19.35:
-Installing the Mindetach module is optional .
+Installing the Mindetach module is optional. 
 Updated the YouTube ReVanced .
 The old mounting method has been restored.
