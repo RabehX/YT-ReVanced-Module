@@ -17,7 +17,5 @@ This Magisk Module For YouTube ReVanced
 - VolumeKey-Selector to choose your favorite theme
 
 ## Changelog :
-### v18.19.35:
-- Installing the Mindetach module is optional. 
+### v18.20.34:
 - Updated the YouTube ReVanced .
-- The old mounting method has been restored.
