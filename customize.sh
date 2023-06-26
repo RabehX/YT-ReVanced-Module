@@ -9,10 +9,6 @@ if ! $BOOTMODE; then
   abort "! Installing from Recovery is Not Supported."
 fi
 
-# Volume Key Selector :
-unzip -o "$MODPATH/addon/VolumeKey-Selector.zip" -d "$MODPATH/addon/VolumeKey-Selector" &>/dev/null || abort "! Unzip failed"
-rm -rf $MODPATH/addon/VolumeKey-Selector.zip
-
 # Run Volume Key Selector Addon :
 if [ "$(ls -A "$MODPATH"/addon/*/install.sh 2>/dev/null)" ]; then
   for addon in "$MODPATH"/addon/*/install.sh; do
@@ -90,7 +86,7 @@ if [ "$ABI" == "armeabi-v7a" ] || [ "$ABI" == "arm64-v8a" ]; then
   # User is prompted to install Mindetach module
   if selector "Would you like to install the Mindetach module ?" null "Yes" "No"; then
     mkdir "$MODPATH/Detacher"
-    unzip -oj "$MODPATH/addon/Detacher.zip" "$ABI/detacher" "detach.txt" -d "$MODPATH/Detacher" &>/dev/null || abort "! Unzip failed"
+    mv $MODPATH/addon/Detacher $MODPATH/Detacher 
     chmod +x $MODPATH/Detacher/detacher
     ui_print '[+] Mindetach Module is installed'
   else
