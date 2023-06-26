@@ -71,5 +71,5 @@ EnterMntNs() {
     exit 1
 }
 
-# Run the script
+# Run the script.
 RUN_SCRIPT
