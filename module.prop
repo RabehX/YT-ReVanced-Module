@@ -1,0 +1,7 @@
+id=yt-revanced
+name=YouTube ReVanced - Dynamic Mount
+version=v18.20.39
+versionCode=1537867200
+author=RabahX
+description=Replace Youtube with YouTube ReVanced via Dynamic Mount.
+updateJson=https://raw.githubusercontent.com/RabahX/YT-ReVanced-Module/master/YT-Update.json
