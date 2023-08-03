@@ -19,3 +19,5 @@ This Magisk Module For YouTube ReVanced
 ## Changelog :
 ### v18.29.38:
 - Updated the YouTube ReVanced .
+#### Note :
+Coming soon ! A version of this Module will be released with a major update .
