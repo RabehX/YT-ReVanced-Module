@@ -43,7 +43,7 @@ if [ "$PMT_VER_CODE" -lt 10 ]; then
   abort "! Kindly upgrade it from the following location: $PMTURL"
 fi
 
-if [ -f "$PMT_MODULE_PATH/disable" ] || [ -f "$PMT_MODULE_PATH/remove" ] || [ -f "$PMT_MODULE_PATH/REPLACE" ] || [ -f "$PMT_MODULE_PATH/REMOVE" ]; then
+if [ -f "$PMT_MODULE_PATH/disable" ] || [ -f "$PMT_MODULE_PATH/remove" ]; then
   ui_print "! Process Monitor Tool is either not enabled or will be removed."
   abort "! Kindly enable it in Magisk beforehand."
 fi
