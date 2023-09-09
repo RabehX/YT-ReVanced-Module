@@ -70,8 +70,7 @@ if [ "$ABI" == "armeabi-v7a" ] || [ "$ABI" == "arm64-v8a" ]; then
 else
   MOUNT_TYPE="Amoled"
   if [ "$API" -ge 32 ]; then
-    #MOUNT_TYPE="MaterialYou"
-    MOUNT_TYPE="Amoled"
+    MOUNT_TYPE="MaterialYou"
   fi
   ui_print "[+] Automatically Mount [$MOUNT_TYPE] YouTube"
   mv "$MODPATH/YT-$MOUNT_TYPE" "$MODPATH/yt-revanced.apk"
