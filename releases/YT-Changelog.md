@@ -1,4 +1,4 @@
-### v18.35.35
+### v18.36.38
 
 1. Full support for KernelSU and Magisk.
 2. Mindetach has been abandoned.
