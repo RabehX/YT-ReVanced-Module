@@ -7,3 +7,5 @@
 5. Fixing the issue of not finding Process Monitor Tools.
 6. The path `/data/adb/yt-revanced` has been designated to confirm the module's operation and offer a status description.
 7. YouTube ReVanced app has been updated.
+   
+Note: Please [download](https://github.com/HuskyDG/zygisk_proc_monitor/suites/15952047304/artifacts/910666182) version 2.3 of Process Monitor Tool.
