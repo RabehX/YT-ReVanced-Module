@@ -1,4 +1,4 @@
-### v18.41.39
+### 18.41.39
 
 1. YouTube ReVanced app has been updated.
 2. Ext4 has been abandoned, but a temporary solution still remains.
