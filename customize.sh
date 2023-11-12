@@ -61,7 +61,7 @@ fi
 # Mount YouTube ReVanced
 if [ "$ABI" == "armeabi-v7a" ] || [ "$ABI" == "arm64-v8a" ]; then
   THEME_SELECTED="MaterialYou"
-  if selector "What is your favorite theme on YouTube ?" null "Amoled" "Material You"; then
+  if selector "What is your favorite theme on YouTube ?" null "Amoled" "MaterialYou"; then
     THEME_SELECTED="Amoled"
   fi
   ui_print "[+] Mount [$THEME_SELECTED] YouTube"
