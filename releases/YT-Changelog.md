@@ -1,6 +1,7 @@
-### 18.41.39
+### 18.44.40
 
 1. YouTube ReVanced app has been updated.
-2. Ext4 has been abandoned, but a temporary solution still remains.
-   
-Note: Please [download](https://github.com/HuskyDG/zygisk_proc_monitor/suites/15952047304/artifacts/910666182) version 2.3 of Process Monitor Tool.
+2. The source code has been enhanced, addressing certain errors, and unnecessary elements have been removed.
+3. The bind mount operation in post-fs-data has been thoroughly eradicated, ensuring the module is now imperceptible to all detection applications, achieving a concealment rate of 99.1%.
+4. The module will be automatically deactivated if the YouTube version is changed.
+
