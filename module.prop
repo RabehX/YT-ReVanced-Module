@@ -1,7 +1,7 @@
 id=yt-revanced
 name=YouTube ReVanced
-version=v18.36.38
-versionCode=1539962304
+version=v18.46.35
+versionCode=1541266880
 author=RabahX
-description=Replacing the installed YouTube app with YouTube ReVanced using Dynamic Mount.
+description=Some magic, enjoy it!
 updateJson=https://raw.githubusercontent.com/RabahX/YT-ReVanced-Module/master/releases/YT-Update.json
